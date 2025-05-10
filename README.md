@@ -6,7 +6,7 @@ This is a basic static clone of the Udemy homepage, built using only HTML and CS
 #Built With
 HTML5 | CSS3 (Flexbox, Grid, Media Queries)
 
-Updated Link: This section now includes the latest link to []. Click here to access it.
+Updated Link: This section now includes the latest link to Udemy Clone. Click here https://rajesh2304-ri.github.io/Udemy-_clone/ to access it.
 
 #Notes
 No JavaScript or interactive functionality included | This is a layout clone only, ideal for beginners learning structure and styling
